@@ -6,3 +6,6 @@
 ## D2-7/15/2020 #50daysofudacity 
 1. Filled out the official study group form
 2. Completed lesson 2.7-2.10
+
+## D3-7/16/2020 #50daysofudacity
+1. Completed lesson 2.11-2.19
