@@ -9,3 +9,6 @@
 
 ## D3-7/16/2020 #50daysofudacity
 1. Completed lesson 2.11-2.19
+
+## D4-7/17/2020 #50daysofudacity
+1. Restudied lesson 2.11-2.19
