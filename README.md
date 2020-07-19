@@ -12,3 +12,6 @@
 
 ## D4-7/17/2020 #50daysofudacity
 1. Restudied lesson 2.11-2.19
+
+## D5-7/18/2020
+Continued with Lesson 2 and set #sg_mom-is-wow description
