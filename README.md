@@ -15,3 +15,6 @@
 
 ## D5-7/18/2020
 Continued with Lesson 2 and set #sg_mom-is-wow description
+
+## D6-7/19/2020
+Working on Lesson 2, prelaunched my lab environment and voted for #sg_spaic meeting time
