@@ -18,3 +18,9 @@ Continued with Lesson 2 and set #sg_mom-is-wow description
 
 ## D6-7/19/2020
 Working on Lesson 2, prelaunched my lab environment and voted for #sg_spaic meeting time
+
+## D7-7/20/2020
+Continuing Lesson 2, posted an announcement for #sg_mom-is-wow to #women_in_tech, #general_discussion and #community_ideas
+
+## D8-7/21/2020
+Working through Lesson 2, housekeeping for #sg_mom-is-wow 
