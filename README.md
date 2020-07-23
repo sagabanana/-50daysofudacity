@@ -24,3 +24,6 @@ Continuing Lesson 2, posted an announcement for #sg_mom-is-wow to #women_in_tech
 
 ## D8-7/21/2020
 Working through Lesson 2, housekeeping for #sg_mom-is-wow 
+
+## D9-7/22/2020
+Studying ML vocabularies and its concepts via Lesson 2
