@@ -27,3 +27,6 @@ Working through Lesson 2, housekeeping for #sg_mom-is-wow
 
 ## D9-7/22/2020
 Studying ML vocabularies and its concepts via Lesson 2
+
+## D10-7/23/2020
+Continuing ML vocabularies, its concepts and algorithms via Lesson 2
