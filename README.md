@@ -30,3 +30,6 @@ Studying ML vocabularies and its concepts via Lesson 2
 
 ## D10-7/23/2020
 Continuing ML vocabularies, its concepts and algorithms via Lesson 2
+
+## D11-7/24/2020
+Lesson 2 and reviewed Microsoft Learn: https://docs.microsoft.com/en-us/learn/
