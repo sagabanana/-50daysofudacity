@@ -33,3 +33,6 @@ Continuing ML vocabularies, its concepts and algorithms via Lesson 2
 
 ## D11-7/24/2020
 Lesson 2 and reviewed Microsoft Learn: https://docs.microsoft.com/en-us/learn/
+
+## D12-7/25/2020
+Attended SPAIC ML Kick-off meeting and reviewing Lesson 2
