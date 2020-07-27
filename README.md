@@ -36,3 +36,28 @@ Lesson 2 and reviewed Microsoft Learn: https://docs.microsoft.com/en-us/learn/
 
 ## D12-7/25/2020
 Attended SPAIC ML Kick-off meeting and reviewing Lesson 2
+
+## D13-7/26/2020
+Studied the ML key ideas recommnded and made by @carlosalcantara - Thank you!!
+ML Lesson 2 key points
+What is machine learning?
+How is machine learning different from traditional programming?
+History of machine learning
+The 6 steps in the data science process
+The 4 main data types
+Scaling data: standardization vs normalization
+Encoding categorical data: one-hot vs ordinal
+Understanding how image data gets represented as numbers
+Understanding how text data gets represented as numbers
+Statistical vs computer science vocabulary (two words for the same concept)
+Models vs Algorithms
+Linear regression (what is it? How does it work?)
+What is a learning function
+Parametric vs non-parametric
+Classical ML vs deep learning
+Understand that there are 3 types of learning (supervised, unsupervised and reinforcement)
+Bias vs variance
+Overfitting vs underfitting
+For these topics, I would make sure to be aware that they exist but you don’t need to worry about them too much as they will be more clear once you begin using them in the future
+Common libraries for ML (understand that they exist but don’t need to memorize these)
+Cloud Services
