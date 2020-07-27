@@ -38,7 +38,7 @@ Lesson 2 and reviewed Microsoft Learn: https://docs.microsoft.com/en-us/learn/
 Attended SPAIC ML Kick-off meeting and reviewing Lesson 2
 
 ## D13-7/26/2020
-Studied the ML key ideas recommnded and made by @carlosalcantara - Thank you!!
+Studied the ML key ideas recommended and made by @carlosalcantara - Thank you!!
 ML Lesson 2 key points
 What is machine learning?
 How is machine learning different from traditional programming?
