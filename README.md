@@ -61,3 +61,34 @@ Overfitting vs underfitting
 For these topics, I would make sure to be aware that they exist but you don’t need to worry about them too much as they will be more clear once you begin using them in the future
 Common libraries for ML (understand that they exist but don’t need to memorize these)
 Cloud Services
+
+## D14-7/27/2020 #50daysofudacity
+1. Continued the ML key ideas
+ML Lesson 2 key points
+What is machine learning?
+How is machine learning different from traditional programming?
+History of machine learning
+The 6 steps in the data science process
+The 4 main data types
+Scaling data: standardization vs normalization
+Encoding categorical data: one-hot vs ordinal
+Understanding how image data gets represented as numbers
+Understanding how text data gets represented as numbers
+Statistical vs computer science vocabulary (two words for the same concept)
+Models vs Algorithms
+Linear regression (what is it? How does it work?)
+What is a learning function
+Parametric vs non-parametric
+Classical ML vs deep learning
+Understand that there are 3 types of learning (supervised, unsupervised and reinforcement)
+Bias vs variance
+Overfitting vs underfitting
+For these topics, I would make sure to be aware that they exist but you don’t need to worry about them too much as they will be more clear once you begin using them in the future
+Common libraries for ML (understand that they exist but don’t need to memorize these)
+Cloud Services
+2. Planning for #sg_mom-is-wow first meeting
+
+## D15-7/28/2020 #50daysofudacity
+Created and posted a poll for #sg_mom-is-wow first meeting
+Continued studying the ML key ideas
+
