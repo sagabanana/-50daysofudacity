@@ -92,3 +92,7 @@ Cloud Services
 Created and posted a poll for #sg_mom-is-wow first meeting
 Continued studying the ML key ideas
 
+## D16-7/29/2020 #50daysofudacity
+Planning for #sg_mom-is-wow first meeting
+Continued studying the ML key ideas
+
