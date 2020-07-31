@@ -98,4 +98,4 @@ Continued studying the ML key ideas
 
 ## D17-7/30/2020 #50daysofudacity
 Scheduled and posted Zoom meeting for #sg_mom-is-wow first meeting tomorrow
-Continued studying the ML key ideas - a lot of learn
+Continued studying the ML key ideas - a lot of learning
