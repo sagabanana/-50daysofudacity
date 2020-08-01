@@ -99,3 +99,8 @@ Continued studying the ML key ideas
 ## D17-7/30/2020 #50daysofudacity
 Scheduled and posted Zoom meeting for #sg_mom-is-wow first meeting tomorrow
 Continued studying the ML key ideas - a lot of learning
+
+## D18-7/31/2020 #50daysofudacity
+1. Hosted the first kickoff #sg_mom-is-wow Zoom meeting today. 
+2. Documented the 1st meeting.
+It was great meeting you and thanks for making time to attend @Ijeoma Ndu @Sai Addagalla @Shalini Raghunandan 
