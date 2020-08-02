@@ -104,3 +104,6 @@ Continued studying the ML key ideas - a lot of learning
 1. Hosted the first kickoff #sg_mom-is-wow Zoom meeting today. 
 2. Documented the 1st meeting.
 It was great meeting you and thanks for making time to attend @Ijeoma Ndu @Sai Addagalla @Shalini Raghunandan 
+
+## D19-8/1/2020 #50daysofudacity
+Attended #sg_spaic zoom meeting and learned about Azure certification presented by @Sagar Lad. 
