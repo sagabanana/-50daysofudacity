@@ -107,3 +107,6 @@ It was great meeting you and thanks for making time to attend @Ijeoma Ndu @Sai A
 
 ## D19-8/1/2020 #50daysofudacity
 Attended #sg_spaic zoom meeting and learned about Azure certification presented by @Sagar Lad. 
+
+## D20-8/2/2020 #50daysofudacity
+Completed lesson 2 
