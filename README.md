@@ -110,3 +110,7 @@ Attended #sg_spaic zoom meeting and learned about Azure certification presented 
 
 ## D20-8/2/2020 #50daysofudacity
 Completed lesson 2 
+
+## D21-8/3/2020 #50dayofudacity
+1. Started Lesson 3
+2. Working on MineTorch and reached out to the community; #sg_mom-is-wow, #women_in_tech, #sg_spaic, #community_ideas, and #general_discussion for seeking interest to finessing together.  I posted:  "Hi, anyone interested in testing-finessing my team's project, MineTorch from 2019 PyTorch Summer Hackathon?  We won.  I will share FB interview I was on early this year so you can get some feel for it and a demo link there.  You can read it here.  Let me know!"
