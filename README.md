@@ -114,3 +114,7 @@ Completed lesson 2
 ## D21-8/3/2020 #50dayofudacity
 1. Started Lesson 3
 2. Working on MineTorch and reached out to the community; #sg_mom-is-wow, #women_in_tech, #sg_spaic, #community_ideas, and #general_discussion for seeking interest to finessing together.  I posted:  "Hi, anyone interested in testing-finessing my team's project, MineTorch from 2019 PyTorch Summer Hackathon?  We won.  I will share FB interview I was on early this year so you can get some feel for it and a demo link there.  You can read it here.  Let me know!"
+
+## D22-8/4/2020 #50daysofudacity
+1. Corresponded with classmates about MineTorch and tinkering on how to finess MineTorch
+2. Worked on interviewing - STAR questions and answers - how do I allow myself feel comfortable interviewing when it feels very uncomfortable
