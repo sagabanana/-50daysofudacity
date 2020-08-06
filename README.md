@@ -118,3 +118,8 @@ Completed lesson 2
 ## D22-8/4/2020 #50daysofudacity
 1. Corresponded with classmates about MineTorch and tinkering on how to finess MineTorch
 2. Worked on interviewing - STAR questions and answers - how do I allow myself feel comfortable interviewing when it feels very uncomfortable
+
+## D23-8/5/2020 #50daysofudacity
+1. Attended LIVE AMA with Microsoft Azure Experts - Abe Omorogbe & Aniththa Umamahesan 
+2. Started conversating with accountability partner @Grace.D and @Joyce Annie George - brainstorming how to help each other to study to finish the course
+3. Joined Airbnb data project group 
