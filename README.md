@@ -123,3 +123,8 @@ Completed lesson 2
 1. Attended LIVE AMA with Microsoft Azure Experts - Abe Omorogbe & Aniththa Umamahesan 
 2. Started conversating with accountability partner @Grace.D and @Joyce Annie George - brainstorming how to help each other to study to finish the course
 3. Joined Airbnb data project group 
+
+
+## D24-8/6/2020 #50daysofudacity 
+1.  Continued lesson 3
+2.  Watched a video of linear regression - https://youtu.be/CtKeHnfK5uA
