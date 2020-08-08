@@ -140,3 +140,10 @@ think about what might be interesting to know given the data
 install python and jupyter notebook, or you want to do on Azure notebook, or other language/tool"
 
 I am excited and hopeful to do a project with this group!
+
+## D26-8/8/2020 #50daysofudacity
+Attended #sg_spaic weekly meeting - thank you :clapping-inclusive: @Mariia  @Sadmi, @Shudipto Trafder, and @Sabyh for organizing, presenting, and hosting today. :clapping-inclusive: 
+
+I am attaching the screenshot and Google Colab presentation below.  https://colab.research.google.com/drive/1Of2E30d6NMfkuJJ5X2Kwfxk7Atlv5jj1
+
+Tagging all participants: @Mariia @Anderson Furtado @ayse.nur @Bhadresh Savani @Clarence Lam @Daniel Burrueco @erin song (what a joy to tag me) @susyjam @Khushal Goyal @LauraT @Mohamed Homossani @Muhammad Haris @Hanane Ouhammouch @Remi @Petar Petrovski @Sadmi @Snehal Lokesh @Verrah Otiende @Wee Nie Tham @Shudipto Trafder @Aarthi Alagammai @Sabyh @annanya24 @Annsana Baby @Anel Nurkayeva @Alex @Jefin Paul @Thant Thazin Eain @Tharani Vadde
