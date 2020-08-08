@@ -130,8 +130,8 @@ Completed lesson 2
 2.  Watched a video of linear regression - https://youtu.be/CtKeHnfK5uA
 
 ## D25-8/7/2020 #50daysofudacity
-Met and brainstromed with @Jerry Liao @Grace.D and @Sunita Inderjit for Airbnb dataset project.  
-@Jerry Liao guided, proposed and outlined direction for our next meeting:
+Met and brainstromed with @Jerry Liao @Grace.D and @Sunita Inderjit for the Airbnb dataset project.  
+@Jerry Liao guided, proposed and outlined the direction for our next meeting:
 
 "Let's try to finish the below items by next meeting:
 download the data (calendar, listings, reviews)
