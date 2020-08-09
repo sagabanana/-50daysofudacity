@@ -147,3 +147,38 @@ Attended #sg_spaic weekly meeting - thank you :clapping-inclusive: @Mariia  @Sa
 I am attaching the screenshot and Google Colab presentation below.  https://colab.research.google.com/drive/1Of2E30d6NMfkuJJ5X2Kwfxk7Atlv5jj1
 
 Tagging all participants: @Mariia @Anderson Furtado @ayse.nur @Bhadresh Savani @Clarence Lam @Daniel Burrueco @erin song (what a joy to tag me) @susyjam @Khushal Goyal @LauraT @Mohamed Homossani @Muhammad Haris @Hanane Ouhammouch @Remi @Petar Petrovski @Sadmi @Snehal Lokesh @Verrah Otiende @Wee Nie Tham @Shudipto Trafder @Aarthi Alagammai @Sabyh @annanya24 @Annsana Baby @Anel Nurkayeva @Alex @Jefin Paul @Thant Thazin Eain @Tharani Vadde
+
+## D27-8/9/2020 #50daysofudacity
+1. Created a group chat to start discuss MineTorch with @Jose @Bhadresh
+2. Joined the first #sg_spaic weekly Slack meeting/AMA from distance and later.  Great job leading @ayse
+3. Read an insightful read about how our minds are "being shaped more than you realize by the deep learning algorithms that personalize your newsfeed and YouTube recommendations and search results based on profoundly powerful personal data harvesting and micro targeting…designed to maximize engagement, which is best achieved by appealing to existing biases, hijacking your limbic system, offering motivating feelings like certainty and group identity (even if not based on anything very real)…and the resultant group-think filter bubbles that emerge from that" written by Daniel Schmachtenberger.  I will share it here:
+
+
+"If you feel surprise at how many people think something that seems obviously absurd to you…it is worth noticing your own surprise. Surprise or shock result from having missed critical pieces of info about the world. It might be a sign that your mind is being shaped more than you realize by the deep learning algorithms that personalize your newsfeed and YouTube recommendations and search results based on profoundly powerful personal data harvesting and micro targeting…designed to maximize engagement, which is best achieved by appealing to existing biases, hijacking your limbic system, offering motivating feelings like certainty and group identity (even if not based on anything very real)…and the resultant group-think filter bubbles that emerge from that.
+
+I am sure my position is both right and good. I am sure that those opposing are at least wrong if not bad. Maybe I have compassion for them because I think they are too dumb to realize they are being fed fake news. When they suggest that I am a victim of fake news, it elicits no real curiosity or impulse to investigate for me.
+
+I have probably not spent even one whole day reading the news they are reading.
+I don’t even have a version of them in my mind that is not a pejorative straw-man.
+I wasn’t on the ground when almost any of the events took place (Beirut, DC, CHOP, Wuhan, Epstein’s jail cell, etc), but I am willing to argue with certainty about what really happened.
+
+Trump is definitely a sociopath being controlled by Putin.
+ Biden is definitely a pedophile deep state puppet.
+Don’t know them, am not behind the scenes, don’t have evidence that would be admissible in a court…but the court of public opinion has no due process or training in jurisprudence...but is consequential…
+
+Righteousness and certainty and in-group feelings and having something to believe in and having a clear bad guy/ scape goat to blame…and not having to work that hard to really making sense of things beyond what the algorithms have curated for me…and being surrounding by sources that confirm that all the smart people think like me…without even having a clear sense of the competing narratives…Is a strong attractor.
+
+Please study these two major phenomena that are affecting everyone’s sense making more than almost anyone realizes:
+1. The AI empowered, engagement maximizing, data harvesting, continuously cell phone mediated, attention decreasing and controlling machine…is more powerful than you know. And you are more susceptible than you think.
+2. Unconventional, population centric warfare is real and ubiquitous. Many state and non state actors have the incentive and capacity to drive narrative and info warfare for many reasons. Narrative warfare is fought in and for the minds of people.
+
+Suggestions:
+1. Learn to be skeptical of yourself when you feel both righteous/outraged and certain/superior. Be rigorous with yourself about honestly self assessing, and knowing what potent drugs these emotions are.
+2. Whichever political and social views you subscribe to more, intentionally go follow and add to your news feed sources that make counter points. If you are pretty sure Biden is better, watch a few hours of Steve Bannon and Ben Shapiro, read Breitbart, the Washington Times, Reason.com, the American Conservative, the Drudge Report, etc. If you are pretty sure Trump is better, watch a few hours of Noam Chomsky and Cornell West and people that have known and worked with him describing character…read the Intercept, Mother Jones, Alternet, Slate, The Atlantic.
+3. Make sure you can make the other person’s argument before you disagree with them.
+4. Become very careful about anything that hijacks your attention. Attention is fundamental to consciousness and choice. Take the social media apps off of your phone. Limit social media and YouTube time. List what you want to study regarding current events and go find the best sources rather than take what the algorithms select for you. Make sure you find conflicting views and study them all.
+5. Stop dehumanizing people. If you don’t get where they are coming from, earnestly seek to understand. Take a vow to give up shaming, out-grouping, straw-manning, superiority signaling, and any behavior that doesn’t communicate respect and good Fatih…at least give them up as your early responses in a conversation.
+6. Stay aware that the way you have framed the argument in your mind that makes the answer so obvious is only one framing and you don’t know how much relevant stuff you aren’t even aware of that factors. This is why you want to ask questions and listen first.
+
+Addition: This does not mean that you don't form assessments or take stands. It means that you form assessments with caution to bias and adequate rigor, and take stands effectively. It also doesn't mean you cant learn to use social media as a tool (some of the guidelines are tips on how to do that); it is advocating making sure it is not using you as a tool."
+ 
