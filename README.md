@@ -185,3 +185,7 @@ Addition: This does not mean that you don't form assessments or take stands. It 
 ## D28-8/10/2020 #50daysofudacity
 1. MineTorch conversation with the newly created group
 2. Lesson 3
+
+## D29-8/11/2020 #50daysofudacity
+1. Registered and watched Google for Education - The Anywhere School 24 hour global livestream event
+2. Joined and reviewed Eye Exercise App group with @Bhadresh @Shudipto and @Pakeeza
