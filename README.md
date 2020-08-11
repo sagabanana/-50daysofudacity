@@ -182,3 +182,6 @@ Suggestions:
 
 Addition: This does not mean that you don't form assessments or take stands. It means that you form assessments with caution to bias and adequate rigor, and take stands effectively. It also doesn't mean you cant learn to use social media as a tool (some of the guidelines are tips on how to do that); it is advocating making sure it is not using you as a tool."
  
+## D28-8/10/2020 #50daysofudacity
+1. MineTorch conversation with the newly created group
+2. Lesson 3
