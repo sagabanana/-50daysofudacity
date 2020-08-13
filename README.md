@@ -189,3 +189,8 @@ Addition: This does not mean that you don't form assessments or take stands. It 
 ## D29-8/11/2020 #50daysofudacity
 1. Registered and watched Google for Education - The Anywhere School 24 hour global livestream event
 2. Joined and reviewed Eye Exercise App group with @Bhadresh @Shudipto and @Pakeeza
+
+## D30-8/12/2020 #50daysofudacity
+1. Reviewed Eye Exercise App
+2. Corresponded with Airbnb data project group
+3. Reviewed #visual_challenge_gallery
