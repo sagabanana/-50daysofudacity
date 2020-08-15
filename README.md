@@ -203,3 +203,8 @@ Addition: This does not mean that you don't form assessments or take stands. It 
 5. Published a reminder meeting note to #sg_mom-is-wow 
 6. Contributed to #general_discussion.  Partially read (the article was only available for subscribers) and wrote my reflection on "Machines can spot mental health issues—if you hand over your personal data" - "Computers can help us spot the signs of psychosis with unnerving accuracy, which may be the beginning of the next great advance in psychiatry… if we hand over our personal data."  I wrote: This story is only available for subscribers but I am sharing it anyway. This is a topic many of us think about - data and privacy. Now we have the answer we've been searching and waiting for but do we want to know? Who can and who cannot have it? What are the consequences of having the answer? Who is really benefiting from this Ai? ...
 https://www.technologyreview.com/2020/08/13/1006573/digital-psychiatry-phenotyping-schizophrenia-bipolar-privacy/
+
+## D32-8/14/2020 #50daysofudacity
+1. Hosted #sg_mom-is-wow 2nd meeting - it was great to connect/reconnect and share with @Shalini Raghunandan and @Ijeoma Ndu - I learned a lot about you both!  Thanks for sharing Vedic math and introducing Nigerian film :sparkling_heart: 
+2. Documented the #sg_mom-is-wow meeting  
+3. Met up with @Jerry Liao and @Sunita Inderjit for Airbnb dataset project
