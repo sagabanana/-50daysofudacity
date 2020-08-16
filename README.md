@@ -208,3 +208,8 @@ https://www.technologyreview.com/2020/08/13/1006573/digital-psychiatry-phenotypi
 1. Hosted #sg_mom-is-wow 2nd meeting - it was great to connect/reconnect and share with @Shalini Raghunandan and @Ijeoma Ndu - I learned a lot about you both!  Thanks for sharing Vedic math and introducing Nigerian film :sparkling_heart: 
 2. Documented the #sg_mom-is-wow meeting  
 3. Met up with @Jerry Liao and @Sunita Inderjit for Airbnb dataset project
+
+##D33-8/15/2020 #50daysofudacity
+1. Attended "Effectively presenting data to management" hosted by @Mariia and @Rachel Ann Drury.  I will attach the photo taken by @Fernando T T
+2. Corresponded with @Bhadresh Savani - defined and articulated the need to create a guiding UI or Bot to help the user to learn and understand DL/AI in MineTorch
+3. Participated 24 hours Study Jam
