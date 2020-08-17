@@ -209,7 +209,11 @@ https://www.technologyreview.com/2020/08/13/1006573/digital-psychiatry-phenotypi
 2. Documented the #sg_mom-is-wow meeting  
 3. Met up with @Jerry Liao and @Sunita Inderjit for Airbnb dataset project
 
-##D33-8/15/2020 #50daysofudacity
+## D33-8/15/2020 #50daysofudacity
 1. Attended "Effectively presenting data to management" hosted by @Mariia and @Rachel Ann Drury.  I will attach the photo taken by @Fernando T T
 2. Corresponded with @Bhadresh Savani - defined and articulated the need to create a guiding UI or Bot to help the user to learn and understand DL/AI in MineTorch
 3. Participated 24 hours Study Jam
+
+## D34-8/16/2020 #50daysofudacity
+1. Attended and participated the 2nd weekly Slack meeting, #sg_spaic AMA hosted by @ayse
+2. Working on MineTorch
