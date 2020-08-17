@@ -216,4 +216,10 @@ https://www.technologyreview.com/2020/08/13/1006573/digital-psychiatry-phenotypi
 
 ## D34-8/16/2020 #50daysofudacity
 1. Attended and participated the 2nd weekly Slack meeting, #sg_spaic AMA hosted by @ayse
-2. Working on MineTorch
+2. Working on MineTorch  
+3. I read a quote from Hemingway; "All you have to do is write one true sentence.  Write the truest sentence that you know." I am thinking how about -
+
+"All you have to do is live one true life. Live the truest life that you know."
+
+- me
+
