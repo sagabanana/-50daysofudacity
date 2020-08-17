@@ -215,7 +215,7 @@ https://www.technologyreview.com/2020/08/13/1006573/digital-psychiatry-phenotypi
 3. Participated 24 hours Study Jam
 
 ## D34-8/16/2020 #50daysofudacity
-1. Attended and participated the 2nd weekly Slack meeting, #sg_spaic AMA hosted by @ayse
+1. Attended and participated in the 2nd weekly Slack meeting, #sg_spaic AMA hosted by @ayse
 2. Working on MineTorch  
 3. I read a quote from Hemingway; "All you have to do is write one true sentence.  Write the truest sentence that you know." I am thinking how about -
 
