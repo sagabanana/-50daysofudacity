@@ -223,3 +223,20 @@ https://www.technologyreview.com/2020/08/13/1006573/digital-psychiatry-phenotypi
 
 - me
 
+## D35-8/17/2020 #50daysofudacity
+Continued with Lesson 3 videos and quizzes 
+Sharing a phrase from Pirke Avot 5:27
+
+“Effort is its own reward.
+We are here to do.
+And through doing to learn;
+and through learning to know;
+and through knowing to experience wonder;
+and through wonder to attain wisdom;
+and through wisdom to find simplicity;
+and through simplicity to give attention;
+and through attention
+to see what needs to be done…”
+ 
+
+~Ben Hei Hei, Pirke Avot 5:27
