@@ -240,3 +240,55 @@ to see what needs to be done…”
  
 
 ~Ben Hei Hei, Pirke Avot 5:27
+
+## D36-8/18/2020 #50daysofudacity
+
+1. Continued with Lesson 3
+2. Read and shared  2 works; video and article related to data/ML/Algorithms on #general_discussion and #relax channel
+
+Artist Refik Anadol doesn't work with paintbrushes or clay. Instead, he uses large collections of data and machine learning algorithms to create mesmerizing and dynamic installations. The results are stunning.
+https://www.youtube.com/watch?v=I-EIVlHvHRM
+
+"Each bee is basically following an algorithm,"
+https://www.smithsonianmag.com/smart-news/stingless-bees-build-spiral-honeycombs-grow-crystals-180975405/
+
+## D37-8/19/2020 #50daysofudacity
+
+1. Yes, Lesson 3!!!
+2. Read and shared "Germany is beginning a universal basic income trial with individuals getting $1400 a month for 3 years article on #relax channel
+Key Points:
+1. Starting this week, 120 Germans will receive a form of universal basic income every month for three years.
+2. The volunteers will get monthly payments of €1,200, or about $1,400, as part of a study testing a universal basic income.
+3. The study will compare the experiences of the 120 volunteers with 1,380 people who do not receive the payments.
+4. About 140,000 people have helped fund the study through donations.
+5. The concept of universal basic income has gained traction in recent years, and Finland tested a form of it in 2017.
+6. Supporters say it would reduce inequality and improve well-being, while opponents argue it would be too expensive and discourage work.
+https://www.businessinsider.in/politics/world/news/germany-is-beginning-a-universal-basic-income-trial-with-individuals-getting-1400-a-month-for-3-years/articleshow/77635957.cms
+
+## D38-8/20/2020 #50daysofudacity
+
+1. Corresponded, planned and scheduled a MineTorch Zoom meeting with @Pakeeza @Richa @Shudipto Trafder @Jose Mariscal and @Bhardresh Savani this Sunday, the 23rd which also reminds me to work on Eye Exercise App - happily looking forward to the virtual group meeting
+
+2. Read the Did You Know Issue # 04 on #sg_spaic channel
+
+3. Read and contributed two articles on #general_discussion channel: 
+
+1) Microsoft targets fastest Azure AI instance to date at large neural networks
+"Microsoft Corp. today previewed a new Azure instance for training artificial intelligence models that targets the emerging class of advanced, ultra-large neural networks being pioneered by the likes of OpenAI.
+The instance, called the ND A100 v4, is being touted by Microsoft as its most powerful AI-optimized virtual machine to date."
+https://siliconangle.com/2020/08/19/microsoft-targets-fastest-azure-ai-instance-date-large-neural-networks/?fbclid=IwAR2UdbEq3xXLPb8cs5W2TqMavqnc54WGE0tPVmXZP12uRCYPtUPLmZsf9ys
+
+2) "Similar to cloud, no code is not a category itself, but rather a shift in how users interface with software tools. In the same way that PCs democratized software usage, APIs democratized software connectivity and the cloud democratized the purchase and deployment of software, no code will usher in the next wave of enterprise innovation by democratizing technical skill sets. No code is empowering business users to take over functionality previously owned by technical users by abstracting complexity and centering around a visual workflow. This profound generational shift has the power to touch every software market and every user across the enterprise."
+https://techcrunch.com/2020/07/07/no-code-will-define-the-next-generation-of-software/#:~:text=In%20the%20same%20way%20that,by%20democratizing%20technical%20skill%20sets.
+
+Lastly, I want to share a beautiful poem by Robert Frost:
+“... I shall be telling this with a sigh
+Somewhere ages and ages hence:
+Two roads diverged in a wood, and I...
+I took the one less traveled by,
+And that has made all the difference.”
+
+"Old ways 
+won't 
+open new 
+doors."
