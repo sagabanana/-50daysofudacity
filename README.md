@@ -292,3 +292,30 @@ And that has made all the difference.”
 won't 
 open new 
 doors."
+
+## D39-8/21/2020 #50daysofudacity
+1. Completed Lesson 7
+2. Working on Lesson 3; videos/quizzes/lab
+3. Had an Airbnb dataset virtual meeting with @Jerry Liao @Sunita Inderjit
+4. Shared an article on #relax channel:
+
+"Researchers say project will help us discover how to step off ‘life's hamster wheel'"
+"Researchers in Germany are giving out scholarships in “idleness” and are willing to pay people to do as little as humanly possible.
+The University of Fine Arts in Hamburg is searching for exactly the right people to take part in a unique project examining laziness and lack of ambition."
+https://www.independent.co.uk/news/world/europe/germany-grants-laziness-scholarships-do-nothing-university-hamburg-a9681466.html
+
+Today's stop, be still and find perspective:
+“No need to hurry. No need to sparkle. No need to be anybody but oneself.”
+
+"... unless I am myself, I am nobody."
+-Virginia Woolf
+
+## D39-8/21/2020 #50daysofudacity
+1. Attended #sg_spaic talk - 
+
+1)Python Data Structures by @Ankita Ghosh
+2)DO's and DON'ts in the professional workplace by @Sadmi
+3)ML Pictionary by @Sabyh (and I had a blast inspite of kicked out from pictionary twice as this was my first playing with the group)
+
+2. Attended SPAIC ML meeting - Data Visualization: Tableau and Power Bi - 
+presented by @Hanane Ouhammouch and @tammy_628, Fun time by  @Sadmi and hosted by @mariia
