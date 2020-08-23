@@ -310,7 +310,7 @@ Today's stop, be still and find perspective:
 "... unless I am myself, I am nobody."
 -Virginia Woolf
 
-## D39-8/21/2020 #50daysofudacity
+## D39-8/22/2020 #50daysofudacity
 1. Attended #sg_spaic talk - 
 
 1)Python Data Structures by @Ankita Ghosh
@@ -319,3 +319,15 @@ Today's stop, be still and find perspective:
 
 2. Attended SPAIC ML meeting - Data Visualization: Tableau and Power Bi - 
 presented by @Hanane Ouhammouch and @tammy_628, Fun time by  @Sadmi and hosted by @mariia
+
+
+## D40-8/23/2020 #50daysofudacity
+
+1. Had a first MineTorch virtual Zoom meeting with @Jose @Bhadresh @Pakeeza @Richa and @Shudipto and we disucssed the possibility of submitting MineTorch to #OpenEdu20 conference
+2. Participated 3rd weekly Slack meeting, #sg_spaic AMA - What a great session hostested by @ayse.nur! Thanks so much!
+
+Sunday Haiku:
+
+Nothing (is) permanent
+Who wants to live forever?
+Everything changes
