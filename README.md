@@ -331,3 +331,20 @@ Sunday Haiku:
 Nothing (is) permanent
 Who wants to live forever?
 Everything changes
+
+## D41-8/24/2020 #50daysofudacity
+1. Working on the course completion
+2. Reviewed OpenEd20 Conference link for MineTorch App submission
+
+## D42-8/25/2020 #50daysofudacity
+1. Attended an amazing Group Study session initiated by @DIBYENDU PODDAR from #beginners channel with @Afreen Kansal. 
+2. Reviewed/revised various concepts in lesson 2. 
+
+Read and shared an article; "Education needs a reset to be fit for the 21st century - Resetting the way we teach science is vital for all our futures" on #sg_mom-is-wow #sg_datascience_in_education channel 
+https://www.weforum.org/agenda/2020/08/science-education-reset-stem-technology/ 
+
+I cannot emphasize enough on how self-evident and how urgent we are at and in need of revolutionizing our current education to match with the fast-changing world; the coming of AI we "cannot predict what technologies will be ascendant in the future" and here is an excerpt to highlight: 
+ 
+"In many industries and countries, the most in-demand occupations or specialties did not exist 10 or even five years ago, and the pace of change is set to accelerate. Up to 65% of children entering school today will have a job that does not yet exist. Our educational systems around the world were failing before COVID-19 and will continue to fall behind unless we change the way we teach and learn science.
+
+Education can no longer be about transferring explicit knowledge across generations. According to the OECD 2030 Future of Education and Skills Project: “We need to replace old education standards with an educational framework that combines knowledge with the 21st century skills of creativity, critical thinking, communication and collaboration.” This won’t be achieved by simply moving classes from the chalkboard to a Zoom call, but radically transforming the way we teach and learn science and technology skills, from one-way content dissemination and memorization to personalized, self-directed learning. In a rapidly changing world, where we cannot predict what technologies will be ascendant in the future, we have to teach children to teach themselves. Students need not just knowledge, but also skills, attitudes and values to thrive in and shape their own future for a more empowered global citizenship. This has never been more evident than in the current pandemic."
