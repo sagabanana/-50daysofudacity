@@ -359,3 +359,15 @@ https://www.youtube.com/watch?v=40OEn4Gkebc
 4. Had a nice chat with @Lane about education/our education experience.  One thing I learned:  when one's gender seems unclear online, first, ask how to address that person before delve into a deeper conversation to minimize unintentional mistakes.  
 
 Attaching a beautiful video of a butterfly sent from my friend yesterday
+
+## D44-8/27/2020 #50daysofudacity
+
+1. Joined Day 4 "GROUP STUDY " with @DIBYENDU PODDAR, @Nadiyah Ahmed and @Afreen Kansal.  We completed Lesson 3.0-3.15 Model Training Lectures; reviewed, watched videos, went over lab, quizzes and Q&A.  A fantastic small group open discussion. :star2: :star2: :star2: :star2: I felt the gravity of heavy lesson 3 
+2. Posted a #sg_mom-is-wow last meeting reminder note along with the Zoom link on the #sg_mom-is-wow channel.  
+3. Read and shared articles on #general_discussion, #sg_mom-is-wow about White House $1 billion investment on AI and QC which in turn begs questions on 1) what are our children learning in and out of school?  2) What are we doing to prepare ourselves and for others about this near imminent change?
+Here is the excerpt:
+"The White House today detailed the establishment of 12 new research institutes focused on AI and quantum information science. Agencies including the National Science Foundation (NSF), U.S. Department of Homeland Security, and U.S. Department of Energy (DOE) have committed to investing tens of millions of dollars in centers intended to serve as nodes for AI and quantum computing study."
+https://venturebeat.com/2020/08/26/white-house-announces-creation-of-ai-and-quantum-research-institutes/?fbclid=IwAR2fQffb0hXD1puhmPGNIWpK23TIhlz1-r6vrpO4jbZ8roo3RYEgZiZgdNI
+4.  50 burpees for 50 days - Day 2 :woman-lifting-weights: 
+
+Sharing Andrew Ng's (in)famously absurd statement that speaks deceptively easy, drops the entire weight of gravity pull of not able to fully grasp the heaping dose of unending information which combined with exhaustive practices of ML/DL/AI and its concepts which often escapes in between fingers, paradoxically from no one but ML and AI expert, Andrew Ng:  "Don't worry about it if you don't understand." 
