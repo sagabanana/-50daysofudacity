@@ -371,3 +371,12 @@ https://venturebeat.com/2020/08/26/white-house-announces-creation-of-ai-and-quan
 4.  50 burpees for 50 days - Day 2 :woman-lifting-weights: 
 
 Sharing Andrew Ng's (in)famously absurd statement that speaks deceptively easy, drops the entire weight of gravity pull of not able to fully grasp the heaping dose of unending information which combined with exhaustive practices of ML/DL/AI and its concepts which often escapes in between fingers, paradoxically from no one but ML and AI expert, Andrew Ng:  "Don't worry about it if you don't understand." 
+
+
+## D45-8/28/2020 #50daysofudacity
+
+1. Day 5 Session of GROUP STUDY with @Afreen Kansal @DIBYENDU & @Nadiyah Ahmed.  We completed 4 Lectures on Lesson 3: Model Training
+We reviewed the videos, labs & quizzes. Thankful to be part of this initiative and we enjoyed the discussion.
+2. Hosted the last #sg_mom-is-wow virtual meeting.  @Ijeoma and I shared a lot from professional to person - education, schooling, tech; ML/AI, motherhoods ... etc.  
+3. Had a great discussion about Airbnb project with teammates @Sunita Inderjit and @Jerry Liao
+4. Met up with @Frank Hu and went over Lesson 3.  Thank you so much for your time, explaining the key points and sharing your resources - it was very helpful.  
