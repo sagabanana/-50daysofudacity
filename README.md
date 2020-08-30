@@ -379,4 +379,13 @@ Sharing Andrew Ng's (in)famously absurd statement that speaks deceptively easy, 
 We reviewed the videos, labs & quizzes. Thankful to be part of this initiative and we enjoyed the discussion.
 2. Hosted the last #sg_mom-is-wow virtual meeting.  @Ijeoma and I shared a lot from professional to person - education, schooling, tech; ML/AI, motherhoods ... etc.  
 3. Had a great discussion about Airbnb project with teammates @Sunita Inderjit and @Jerry Liao
-4. Met up with @Frank Hu and went over Lesson 3.  Thank you so much for your time, explaining the key points and sharing your resources - it was very helpful.  
+4. Met up with @Frank Hu and went over Lesson 3.  Thank you so much for your time, explaining the key points and sharing your resources - it was very helpful.
+5. 50 Burpees for 50 Days Day 3 completed
+
+## D46-8/29/2020 #50daysofudacity
+1. Participated Day 6 "GROUP STUDY" with @DIBYENDU PODDAR and @Nadiyah Ahmed - we completed 11 sections from lesson 3: Model Training by reviewing videos, labs & quizzes, and Q&A.  A nice studying!
+2. After the group study, I slide into weekly #SPAIC MEETING which turned out Nutanix SPAIC group meeting - I didn't get the last minute SPAIC MEETING cancellation as I was studying with the "GROUP STUDY" group.
+3. Attended Introduction to Exploratory Data Analysis webinar by @Bhadresh Savani
+4. Found 5 eye exercise videos, placed them in the bin folder and created a pull request 
+https://github.com/bhadreshpsavani/EyeExerciseApp/issues50 
+5. Day 4 Burpees for 50 Days completed :woman-lifting-weights:
