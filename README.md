@@ -394,4 +394,14 @@ https://github.com/bhadreshpsavani/EyeExerciseApp/issues50
 1. Reviewed eye exercise app
 2. Day 5 50 burpees for 50 days completed 
 3. Corresponded with "group study" scholars about changing time
-4. Caught up on Slack threads
+4. Caught up all the Slack threads
+
+## D48-8/31/2020 #50daysofudacity
+
+1. Participated in GROUP STUDY with @Afreen Kansal @DIBYENDU & @Nadiyah Ahmed.  We completed Lesson 3 and discussed project ideas
+2. Day 6 50 burpees for 50 days completed
+3. Started a new class 
+
+Thought for today from the movie, "The Lunchbox"
+
+"Sometimes the wrong train will get you to the right station."
