@@ -389,3 +389,9 @@ We reviewed the videos, labs & quizzes. Thankful to be part of this initiative a
 4. Found 5 eye exercise videos, placed them in the bin folder and created a pull request 
 https://github.com/bhadreshpsavani/EyeExerciseApp/issues50 
 5. Day 4 Burpees for 50 Days completed :woman-lifting-weights:
+
+## D47-8/30/2020 #50daysofudacity
+1. Reviewed eye exercise app
+2. Day 5 50 burpees for 50 days completed 
+3. Corresponded with "group study" scholars about changing time
+4. Caught up on Slack threads
