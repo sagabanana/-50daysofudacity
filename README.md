@@ -405,3 +405,13 @@ https://github.com/bhadreshpsavani/EyeExerciseApp/issues50
 Thought for today from the movie, "The Lunchbox"
 
 "Sometimes the wrong train will get you to the right station."
+
+## D49-9/1/2020 #50daysofudacity
+1. Shared Neuralink progress update, summer 2020
+https://www.youtube.com/watch?v=DVvmgjBL74w&feature=youtu.be
+(Special attention to: 18:20 - Reading Neurons to predict joint positions of a Pig on a Treadmill)
+2. Studied with @Afreen Kansal @DIBYENDU PODDAR & @Nadiyah Ahmed.  Lesson 4 and we completed 13 sections
+3. Day 7 50 burpees for 50 days completed
+4. Met up and studied Lesson 3 and 4 with @Frank Hu - thanks so much for your time and explanations!!!
+
+Painting by Jonathan Wolstenholme attached
