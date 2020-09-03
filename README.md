@@ -415,3 +415,18 @@ https://www.youtube.com/watch?v=DVvmgjBL74w&feature=youtu.be
 4. Met up and studied Lesson 3 and 4 with @Frank Hu - thanks so much for your time and explanations!!!
 
 Painting by Jonathan Wolstenholme attached
+
+## D50-9/2/2020 #50daysofudacity
+
+1. Participated in GROUP STUDY with @@Afreen Kansal @DIBYENDU PODDAR & @Nadiyah Ahmed. We completed 4.14-24 lessons - Supervised & Unsupervised Learning and Afree shared her 2 projects.
+2. Stumbled across 2 articles relate to ML studies 1) an investigative report on how Canada using predictive policing algorithms 
+https://www.vice.com/en_us/article/k7q55x/police-across-canada-are-using-predictive-policing-algorithms-report-finds
+and 2) A Supercomputer Analyzed Covid-19 — and an Interesting New Theory Has Emerged - A closer look at the Bradykinin hypothesis
+https://elemental.medium.com/a-supercomputer-analyzed-covid-19-and-an-interesting-new-theory-has-emerged-31cb8eba9d633 - I am curious to learn more about it - shared on #general discussion 
+3. Day 8 50 burpees for 50 days completed 
+
+Sharing a painting by Odilon Redon 
+("Odilon Redon's work represent an exploration of his internal feelings and psyche.
+He himself wanted to "place the visible at the service of the invisible"; thus, although his work seems filled with strange beings and grotesque dichotomies, his aim was to represent pictorially the ghosts of his own mind. Redon also describes his work as ambiguous and undefinable:
+"My drawings inspire, and are not to be defined. They place us, as does music, in the ambiguous realm of the undetermined"."
+https://www.tuttartpitturasculturapoesiamusica.com/2013/02/Odilon-Redon.html)
